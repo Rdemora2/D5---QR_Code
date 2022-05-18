@@ -2,4 +2,4 @@ Desafio do FrontEnd Mentor desenvolvido durante estudos de HTML e CSS no BuserTe
 
 PREVIEW:
 
-https://rdemora2.github.io/D5-QR_Code/
+https://rdemora2.github.io/D5---QR_Code/
